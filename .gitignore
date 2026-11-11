@@ -1,0 +1,12 @@
+.venv/
+.python/
+.cache/
+.bin/
+__pycache__/
+*.pyc
+training/
+validation/
+*.pt
+.DS_Store
+.env
+.env.*
